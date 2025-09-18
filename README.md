@@ -6,11 +6,10 @@ Bowling Tdd Kata
 
 ## Installations
 ```bash
-git clone git@github.com:wix-private/bowling-tdd-kata.git
-cd bowling-tdd-kata
+git clone git@github.com:borisd9/bowling-tdd.git
+cd bowling-tdd
 npm install
 ```
-note: node.js version 8 or less to install packages correctly.
 
 ## General instructions
 
@@ -27,8 +26,6 @@ note: node.js version 8 or less to install packages correctly.
   > *REFACTOR* - refactor your code
 
   Refactoring your code (right after it gets green) is the most important part!!! Do not skip it
-
-- Work in pairs/alone
 
 - Complete each task/step before moving to next one!
 
