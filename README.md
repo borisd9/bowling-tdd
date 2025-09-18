@@ -8,7 +8,8 @@ Bowling Tdd Kata
 ```bash
 git clone git@github.com:borisd9/bowling-tdd.git
 cd bowling-tdd
-npm install
+yarn
+yarn run dev
 ```
 
 ## General instructions
